@@ -2,13 +2,13 @@
 
 Hey there! This is **Odin Recipes**, my humble attempt at building a basic recipe website to practice my HTML skills. While the website might not win any design awards (unless you're into brutalist web design, that is), it's been an excellent journey to strengthen my HTML knowledge.
 
-## Table of Contents
+<!-- ## Table of Contents
 
 - [Project Overview](#project-overview)
 - [Getting Started](#getting-started)
 - [Project Structure](#project-structure)
 - [Contributing](#contributing)
-- [License](#license)
+- [License](#license) -->
 
 ---
 
